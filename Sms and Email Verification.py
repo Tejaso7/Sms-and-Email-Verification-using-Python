@@ -4,6 +4,8 @@ import random
 import smtplib
 from twilio.rest import Client
 
+#this is my project made by tejas sawant💕
+
 digits="0123456789"
 OTP=""
 for i in range(6):
